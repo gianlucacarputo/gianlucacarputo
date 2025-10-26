@@ -2,8 +2,6 @@
 
 👨🏻‍💻 I'm a tech enthusiast who hit the jackpot — getting to do one of my passions for a living!
 
-📥 Connect with me on [LinkedIn](https://www.linkedin.com/in/gianlucacarputo/)
-
 <img width="520" height="376" alt="image" src="https://github.com/user-attachments/assets/4aa22fa9-9356-4579-a1ab-389085485c04" />
 
 ---
