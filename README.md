@@ -66,7 +66,7 @@
 
 ---
 
-### 🚀 What I'm working on
+### ⚙️ What I'm working on
 
 - Optimizing **CI/CD automation** in Azure DevOps  
 - Provisioning and maintaining **Microsoft Azure** resources
@@ -74,10 +74,10 @@
 
 ---
 
-### 🌱 Currently learning
+### 📚 Currently learning
 
-- Exploring **GitOps** (Flux / ArgoCD)
-- Studying **Strudel** - a live-coding language for algorithmic music composition
+- Exploring **declarative approach** on DevOps practices
+- Experimenting on **Strudel** - a live-coding language for algorithmic music composition
 
 ---
 
