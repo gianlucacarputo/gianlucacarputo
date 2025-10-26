@@ -60,7 +60,6 @@
 - **CI/CD:** Azure DevOps pipelines (YAML)  
 - **Automation:** Bash, PowerShell  
 - **Monitoring and Observability:** Dynatrace
-- **Productivity and Tools**: Joplin, Notion
 
 ---
 
