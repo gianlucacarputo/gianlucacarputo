@@ -80,7 +80,7 @@
 
 ### 🤪 Fun fact
 
-> I spend more time automating tasks than it would take to do them manually — and I regret nothing.
+> I spend more time automating tasks than it would take to do them manually - and I regret nothing.
 
 <!--
 **CronGala/CronGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
