@@ -78,6 +78,22 @@
 
 ---
 
+### 🗓️ My work schedule
+
+```bash
+# ┌───────────── minute (0 - 59)
+# │ ┌─────────── hour (0 - 23)
+# │ │ ┌───────── day of month (1 - 31)
+# │ │ │ ┌─────── month (1 - 12)
+# │ │ │ │ ┌───── day of week (0 - 6) (Sunday = 0)
+# │ │ │ │ │
+# │ │ │ │ │
+0 9-18 * * 1-5 work.sh          # echo "Mon–Fri, 09:00 → 18:00 (CET)"
+0 18 * * 1-5  stop-work.sh      # git commit -m "Done for today"
+```
+
+---
+
 ### 🤪 Fun fact
 
 > I spend more time automating tasks than it would take to do them manually - and I regret nothing.
