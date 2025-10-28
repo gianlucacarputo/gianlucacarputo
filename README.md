@@ -19,7 +19,7 @@
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-F0621F?logo=splunk&logoColor=fff&style=for-the-badge)
 
-#### 🧩 Scripting, configuration and automation
+#### 🧩 Scripting, configuration, automation and markup
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)
