@@ -33,6 +33,7 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D7?logo=vsc&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=conventionalcommits&logoColor=fff&style=for-the-badge)
 
 #### 🧱 Operating systems and platforms
 
