@@ -42,12 +42,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
-#### 📦 Package managers
-
-![WinGet](https://custom-icon-badges.demolab.com/badge/WinGet-0078D6?logo=windows11&logoColor=white&style=for-the-badge)
-![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=for-the-badge)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=for-the-badge)
-
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,htmx,regex,git,github,azure,kubernetes,powershell,bash,linux,windows,apple,notion)](https://skillicons.dev)
